@@ -1,0 +1,12 @@
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\bin\Debug\net6.0\Easyareafinder.deps.json
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\bin\Debug\net6.0\Easyareafinder.dll
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\bin\Debug\net6.0\Easyareafinder.pdb
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\Easyareafinder.csproj.AssemblyReference.cache
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\Easyareafinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\Easyareafinder.AssemblyInfoInputs.cache
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\Easyareafinder.AssemblyInfo.cs
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\Easyareafinder.csproj.CoreCompileInputs.cache
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\Easyareafinder.dll
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\refint\Easyareafinder.dll
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\Easyareafinder.pdb
+C:\Users\Эмиль\source\repos\ClassLibraryProjects\Easyareafinder\obj\Debug\net6.0\ref\Easyareafinder.dll

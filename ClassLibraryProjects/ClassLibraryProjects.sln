@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easyareafinder", "Easyareafinder\Easyareafinder.csproj", "{64822E97-6E5F-40A1-AFAD-955C8DF14D58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Areafindertest", "Areafindertest\Areafindertest.csproj", "{B512BAFE-8F61-43A0-983D-8F9A64A910C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64822E97-6E5F-40A1-AFAD-955C8DF14D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64822E97-6E5F-40A1-AFAD-955C8DF14D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64822E97-6E5F-40A1-AFAD-955C8DF14D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64822E97-6E5F-40A1-AFAD-955C8DF14D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B512BAFE-8F61-43A0-983D-8F9A64A910C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B512BAFE-8F61-43A0-983D-8F9A64A910C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B512BAFE-8F61-43A0-983D-8F9A64A910C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B512BAFE-8F61-43A0-983D-8F9A64A910C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE42569-4275-4D9C-A5E4-D7B194BF2746}
+	EndGlobalSection
+EndGlobal
