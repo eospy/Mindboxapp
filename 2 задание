@@ -1,0 +1,4 @@
+SELECT prod.name [продукт], cat.name [категория] FROM Products prod
+    LEFT JOIN ProdCat prodcat ON prod.id = prodcat.products_id
+    INNER JOIN Category cat ON cat.id = prodcat.category_id
+ORDER BY prod.name;
